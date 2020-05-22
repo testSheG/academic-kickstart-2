@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nalin Asanka Gamagedara Arachchilage
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Research Fellow in Usable Security
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: La Trobe University
+  url: "https://scholars.latrobe.edu.au/display/nasanka"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer System Security 
+- Computer games for learning 
+- Data Encryption
 
 education:
   courses:
@@ -50,15 +50,15 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?hl=en&user=itCS1r0AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr Nalin Asanka Gamagedara Arachchilage is a Senior Research Fellow in Cyber Security at La Trobe University, Australia, where he currently leads the Usable Security Engineering Research Group (USERGroup) in the Optus La Trobe Cyber Security Research Hub. He previously worked as a Lecturer in Cyber Security at the University of New South Wales (at the Australian Defence Force Academy). Before he worked as a Research Fellow in Usable Security at the University of British Columbia, Canada. At Oxford University, he cut his teeth as a Postdoctoral Researcher in Systems Security Engineering in the Department of Computer Science. His primary research interests are at the intersection of computer security, human-computer interaction (HCI), software engineering, Information systems security and serious games, in an area known as usable security and privacy engineering
