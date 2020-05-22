@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computer System Security 
+- Computer System Securit
 - Computer games for learning 
 - Data Encryption
 
