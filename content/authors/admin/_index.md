@@ -13,6 +13,7 @@ interests:
   - Computer System Security
   - Games
   - Security
+  - Research
 social:
   - icon: envelope
     icon_pack: fas
