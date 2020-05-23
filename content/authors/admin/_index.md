@@ -11,7 +11,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Computer System Security
-  - Computational Linguistics
+  - Games
   - Information Retrieval
 social:
   - icon: envelope
