@@ -25,27 +25,27 @@
 
 [[main]]
   name = "Supervision"
-  url = "/publication/"
+  url = "/supervision/"
   weight = 30
 
 [[main]]
   name = "Teaching"
-  url = "/publication/"
+  url = "/teaching/"
   weight = 40
 
 [[main]]
   name = "Talks"
-  url = "/publication/"
+  url = "/talks/"
   weight = 50
 
 [[main]]
   name = "Press"
-  url = "/publication/"
+  url = "/press/"
   weight = 60
 
 [[main]]
   name = "Services"
-  url = "/publication/"
+  url = "/services/"
   weight = 70
 
 
