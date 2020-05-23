@@ -14,6 +14,8 @@ interests:
   - Games
   - Security
   - Research
+  - Computational Linguistics
+  - GGames
 social:
   - icon: envelope
     icon_pack: fas
