@@ -12,7 +12,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Computer System Security
   - Games
-  - Information Retrieval
+  - Security
 social:
   - icon: envelope
     icon_pack: fas
