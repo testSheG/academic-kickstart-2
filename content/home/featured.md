@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = ""
+subtitle = "All Publications"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -22,7 +22,7 @@ subtitle = ""
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
