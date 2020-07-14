@@ -35,12 +35,12 @@
 
 [[main]]
   name = "Supervision"
-  url = "/supervision/"
+  url = "#supervision"
   weight = 5
 
 [[main]]
   name = "Teaching"
-  url = "/teaching/"
+  url = "#teaching"
   weight = 6
 
 [[main]]
@@ -55,7 +55,7 @@
 
 [[main]]
   name = "Services"
-  url = "/services/"
+  url = "#services"
   weight = 9
 
 
