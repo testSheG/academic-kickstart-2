@@ -36,14 +36,14 @@ social:
 #   link: /files/cv.pdf
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Ph.D. in Computer Science
+      institution: Brunel University London, United Kingdom
+      year: 2013
+    - course: M.Sc. in Information Management and Security
+      institution: University of Bedfordshire, United Kingdom
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: B.Sc. (Hons) in Management Information Systems
+      institution: University College Dublin, National University of Ireland, Ireland
       year: 2008
 email: ""
 user_groups:
