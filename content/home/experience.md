@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Victoria 3086, Australia"
   date_start = "2019-03-01"
   date_end = ""
-  description = """As a Senior Research Fellow - Level C/6 - Highest level
+  description = """aAs a Senior Research Fellow - Level C/6 - Highest level
 (Research Associate Professor in the US) in Cyber Security, within the Department
 of Computer Science and Information Technology at La Trobe University, Australia,
 I currently lead the Usable Security Engineering Research Group USERGroup) in
