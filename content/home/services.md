@@ -47,12 +47,12 @@ subtitle = "d"
  # CSS class.
  css_class = ""
 +++
-###### Professional Services
+#### Professional Services
 * Reviewer: ACM CHI: ACM CHI Conference on Human Factors in Computing Systems
 [CORE/ERA ranking - A*] . _2019_
 
 * Publicity Co-Chair: The 16th Symposium on Usable Privacy and Security (SOUPS)
-Co-located with USENIX Security '20 in Boston, MA, USA 2019
+Co-located with USENIX Security '20 in Boston, MA, USA _2019_
 
 * Publicity Co-Chair: The 15th Symposium on Usable Privacy and Security (SOUPS)
 Co-located with USENIX Security '19 in Santa Clara, California, USA 2019
