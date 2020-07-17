@@ -27,18 +27,7 @@ date_format = "Jan 2006"
   description = """As a Senior Research Fellow - Level C/6 - Highest level
 (Research Associate Professor in the US) in Cyber Security, within the Department
 of Computer Science and Information Technology at La Trobe University, Australia,
-I currently lead the Usable Security Engineering Research Group USERGroup) in
-the Optus La Trobe Cyber Security Research Hub. My research group consists of 3
-full-time PhD researchers, 2 Master of Researchers and industry partners i.e. NAB,
-Optus, Secure Code Warrior and CSIRO's Data61. Besides, I currently collaborate
-with several researchers and academics on various projects from the University of
-Adelaide, University of Sydney, King's College London (Co-supervise a PhD thesis
-of Joseph Shams with Associate Professor Jose Such), University of Northumbria and
-the University of Waterloo. I daily supervise students' thesis research and write grant
-proposals in the area of usable security and privacy. I assist with brainstorming thesis
-direction, study design, ethics applications, research method, system implementation,
-and writing up results. I also oversee student progress through weekly meetings and
-provided feedback on the research work.
+
   Responsibilities include:
   
   * Analysing
