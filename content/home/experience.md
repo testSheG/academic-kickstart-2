@@ -71,3 +71,26 @@ provided feedback on the research work.
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
+[[experience]]
+  title = "name"
+  company = "La Trobe University"
+  company_url = ""
+  location = "Victoria 3086, Australia"
+  date_start = "2019-03-01"
+  date_end = ""
+  description = """As a Senior Research Fellow - Level C/6 - Highest level
+(Research Associate Professor in the US) in Cyber Security, within the Department
+of Computer Science and Information Technology at La Trobe University, Australia,
+I currently lead the Ug's College London (Co-supervise a PhD thesis
+of Joseph Shams with Associate Professor Jose Such), University of Northumbria and
+the University of Waterloo. I daily supervise students' thesis research and write grant
+proposals in the area of usable security and privacy. I assist with brainstorming thesis
+direction, study design, ethics applihod, system implementation,
+and writing up results. I also oversee student progress through weekly meetings and
+provided feedback on the research work.
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
