@@ -11,6 +11,8 @@ weight = 15  # Order that this section will appear.
 title = "Supervision"
 subtitle = ""
 
+reading_time: false  # Show estimated reading time?
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
