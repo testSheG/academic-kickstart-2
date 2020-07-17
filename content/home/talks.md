@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 8  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
-subtitle = "Nalin"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -22,8 +22,6 @@ subtitle = "Nalin"
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-
-
 
   # Filter posts by a taxonomy term.
   [content.filters]
