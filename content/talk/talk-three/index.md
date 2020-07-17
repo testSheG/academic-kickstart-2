@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Example Talk 3
 event: Academic Theme Conference
 event_url: https://example.org
 
