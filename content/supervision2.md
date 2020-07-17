@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -51,16 +51,15 @@ subtitle = ""
 +++
 ##  Current Student Supervisions
 
-**Abdullah Abdulaziz N Alghunaim**
-
-February 2020 to present
+**Abdullah Abdulaziz N Alghunaim** - February 2020 to present
 
 (Co-supervisor: Professor Jill Slay, La Trobe University)
-
 **PhD Thesis Title:** Developing a framework to understand users' privacy and risk
 
 perceptions of sharing health information over the social media network.
 
+* hello
+* hello
 
 ## Completed Student Supervisions
 
