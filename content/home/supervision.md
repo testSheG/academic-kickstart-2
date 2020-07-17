@@ -72,6 +72,10 @@ subtitle = "Current Student Supervisions"
 
 * **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+
 
 
 [SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)
