@@ -66,9 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-##  Current Student Supervisions
-
-* **University of New South Wales, Australia** _October 2015 to Present_
+###### **University of New South Wales, Australia** . _October 2015 to Present_
 **Teaching Synopsis:** In UNSW, I developed, updated, delivered and managed the
 curriculum from scratch for a number of courses (ZEIT3120 Programming for Security,
 ZEIT8036 Humans and Security and ZEIT8037 Cyber Security Risk Management).
@@ -78,7 +76,7 @@ ZEIT8036 Humans and Security and ZEIT8037 Cyber Security Risk Management).
 * Lecturer - ZEIT8029 Network and Mobile Device Forensics (Course Convenor)
 * Lecturer - Chief of Army Hons students (Course Convenor)
 
-* **Deakin University, Australia** _July 2015 to October 2015_
+###### **Deakin University, Australia** .  _July 2015 to October 2015_
 **Sessional Lecturer -** SIT323 Practical Software Development
 CQUniversity Melbourne, Australia July 2015 to October 2015
 * Sessional Lecturer - COIS23002 Digital Forensics
