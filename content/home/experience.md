@@ -32,7 +32,7 @@ of Computer Science and Information Technology at La Trobe University, Australia
   
   * Analysing
   * Modelling
-  * Deploying
+  * dfsf
   """
   
   [[experience]]
