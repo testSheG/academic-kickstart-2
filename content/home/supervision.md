@@ -8,9 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Supervision"
-subtitle = "Current Student Supervisions 
-
-[SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)"
+subtitle = "[SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
