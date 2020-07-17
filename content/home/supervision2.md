@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Supervision"
-subtitle = ""
+subtitle = "[SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -49,10 +49,7 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics.
   
-  
-
-  
   """
-[SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)
+
 
 +++
