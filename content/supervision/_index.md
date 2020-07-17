@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Supervision
 
 # View.
 #   1 = List
