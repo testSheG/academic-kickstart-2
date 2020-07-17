@@ -66,13 +66,12 @@ subtitle = "Current Student Supervisions"
  # CSS class.
  css_class = ""
 +++
-**Abdullah Abdulaziz N Alghunaim**
+##  Current Student Supervisions
 
-_February 2020 to present_
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
-(Co-supervisor: Professor Jill Slay, La Trobe University)
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
-**PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
 
 [SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)
