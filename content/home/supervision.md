@@ -72,6 +72,7 @@ February 2020 to present
 
 (Co-supervisor: Professor Jill Slay, La Trobe University)
 
-**PhD Thesis Title:** Developing a framework to understand users' privacy and risk
+**PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
-perceptions of sharing health information over the social media network.
+[[SEE ALL SUPERVISIONS]](https://academic-template.netlify.app/supervision2/)
+[[SEE ALL SUPERVISIONS]](https://academic-template.netlify.app/supervision/)
