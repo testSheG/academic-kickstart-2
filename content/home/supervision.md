@@ -66,7 +66,8 @@ subtitle = "Current Student Supervisions"
  # CSS class.
  css_class = ""
 +++
--**Abdullah Abdulaziz N Alghunaim**
+**Abdullah Abdulaziz N Alghunaim**
+
 _February 2020 to present_
 
 (Co-supervisor: Professor Jill Slay, La Trobe University)
