@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Demos"
+title = "Current Student Supervisions"
 subtitle = ""
 
 [design]
@@ -49,6 +49,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+-hello
+
+
+Abdullah Abdulaziz N Alghunaim February 2020 to present
+(Co-supervisor: Professor Jill Slay, La Trobe University)
+PhD Thesis Title: Developing a framework to understand users' privacy and risk
+perceptions of sharing health information over the social media network.
 
 Welcome to the **personal demo** of Academic. Other demos available include:
 
