@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 [[experience]]
   title = "**Abdullah Abdulaziz N Alghunaim**"
   company = "La Trobe University"
-  company_url = "(Co-supervisor: Professor Jill Slay, La Trobe University)"
-  location = ""
+  company_url = ""
+  location = "(Co-supervisor: Professor Jill Slay, La Trobe University)"
   date_start = "2020-02-01"
   date_end = ""
   description = """**PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
@@ -37,11 +37,7 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
@@ -52,5 +48,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+
+[SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)
 
 +++
