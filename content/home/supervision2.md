@@ -20,18 +20,13 @@ date_format = "Jan 2006"
 [[experience]]
   title = "**Abdullah Abdulaziz N Alghunaim**"
   company = "La Trobe University"
-  company_url = ""
+  company_url = "(Co-supervisor: Professor Jill Slay, La Trobe University)"
   location = ""
   date_start = "2020-02-01"
   date_end = ""
   description = """**PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
-  Responsibilities include:
-  **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
-    (Co-supervisor: Professor Jill Slay, La Trobe University)
-  * Analysing
-  * Modelling
-  * dfsf
+  
   """
   
   [[experience]]
