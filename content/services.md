@@ -28,9 +28,9 @@ subtitle = ""
 +++
 
 
-###### Professional Services
+##### Professional Services
 * Reviewer: ACM CHI: ACM CHI Conference on Human Factors in Computing Systems
-[CORE/ERA ranking - A*] . _2019_
+[CORE/ERA ranking - A*] . _ 2019 _
 
 * Publicity Co-Chair: The 16th Symposium on Usable Privacy and Security (SOUPS)
 Co-located with USENIX Security '20 in Boston, MA, USA 2019
