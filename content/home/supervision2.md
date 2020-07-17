@@ -18,16 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Senior Research Fellow in Cyber Security"
+  title = "**Abdullah Abdulaziz N Alghunaim**"
   company = "La Trobe University"
   company_url = ""
-  location = "Victoria 3086, Australia"
-  date_start = "2019-03-01"
+  location = ""
+  date_start = "2020-02-01"
   date_end = ""
-  description = """Description
+  description = """**PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
   Responsibilities include:
-  
+  **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+    (Co-supervisor: Professor Jill Slay, La Trobe University)
   * Analysing
   * Modelling
   * dfsf
