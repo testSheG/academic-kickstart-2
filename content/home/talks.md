@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 8  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
-subtitle = ""
+subtitle = "Nalin"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -23,8 +23,7 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
-  # Show a "See all pages" link underneath the featured content?
-  link_to_archive = true
+
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -42,7 +41,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
