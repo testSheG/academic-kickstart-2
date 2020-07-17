@@ -8,7 +8,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Supervision"
+title = "Teaching Experience"
 subtitle = ""
 
 
@@ -26,7 +26,7 @@ subtitle = ""
  # CSS class.
  css_class = "card-title exp-title text-muted mt-0 mb-1"
 +++
-##  Current Student Supervisions
+
 
 ###### **University of New South Wales, Australia** _October 2015 to Present_
 **Teaching Synopsis:** In UNSW, I developed, updated, delivered and managed the
