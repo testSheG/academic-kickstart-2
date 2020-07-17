@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Current Student Supervisions"
+title = "Supervision"
 subtitle = ""
 
 [design]
@@ -49,14 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Current 
-
-### Completed
-
--hello
-
-**Bold**
-
+##  Current Student Supervisions
 
 **Abdullah Abdulaziz N Alghunaim**
 
@@ -67,6 +60,11 @@ February 2020 to present
 **PhD Thesis Title:** Developing a framework to understand users' privacy and risk
 
 perceptions of sharing health information over the social media network.
+
+
+## Completed Student Supervisions
+
+--
 
 Welcome to the **personal demo** of Academic. Other demos available include:
 

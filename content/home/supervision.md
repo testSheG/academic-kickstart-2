@@ -66,7 +66,12 @@ subtitle = "Current Student Supervisions"
  # CSS class.
  css_class = ""
 +++
-Abdullah Abdulaziz N Alghunaim February 2020 to present
+**Abdullah Abdulaziz N Alghunaim**
+
+February 2020 to present
+
 (Co-supervisor: Professor Jill Slay, La Trobe University)
-PhD Thesis Title: Developing a framework to understand users' privacy and risk
+
+**PhD Thesis Title:** Developing a framework to understand users' privacy and risk
+
 perceptions of sharing health information over the social media network.
