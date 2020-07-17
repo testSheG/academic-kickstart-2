@@ -47,7 +47,7 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "card-title exp-title text-muted mt-0 mb-1"
 +++
 ##  Current Student Supervisions
 
