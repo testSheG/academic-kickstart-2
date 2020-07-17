@@ -54,18 +54,21 @@ subtitle = ""
 +++
 ##  Current Student Supervisions
 
-* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_
-###### **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
-* **Chandima Perera** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
-**PhD Thesis Title:** Developing a framework to understand users' privacy and risk
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
-perceptions of sharing health information over the social media network.
-
-* **asterisks and _underscores_**
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
 ## Completed Student Supervisions
+
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
 --
 
