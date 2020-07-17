@@ -17,7 +17,6 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
-  reading_time: false  # Show estimated reading time?
 
 [design.background]
   # Apply a background color, gradient, or image.
