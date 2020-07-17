@@ -49,4 +49,10 @@ CQUniversity Melbourne, Australia July 2015 to October 2015
 * Sessional Lecturer - COIT20245 Introduction to Programming
 * Sessional Lecturer - COIT29222 Programming Principles
 
+###### **Victoria University, Australia** 
+
+_July 2015 to October 2015_
+
+Sessional Lecturer - ECB1222 Web Design and Programming
+
 
