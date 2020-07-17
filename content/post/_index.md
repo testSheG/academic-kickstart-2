@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 view: 2
-title: Post 1
+title: title
 subtitle: subtitle
 date: 2020-05-22T19:19:22.355Z
 summary: summary
