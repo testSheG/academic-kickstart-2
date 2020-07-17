@@ -49,11 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-subtitle = "Current"
+## Current 
 
-subtitle = "Completed"
-
-subtitle = "Current"
+### Completed
 
 -hello
 
