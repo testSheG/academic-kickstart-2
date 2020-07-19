@@ -1,23 +1,14 @@
 ---
-draft: false
+title: Posts
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
 view: 2
-title: title
-subtitle: subtitle
-date: 2020-05-22T19:19:22.355Z
-summary: summary
+
+# Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
-featured: true
-categories:
-  - category
-projects:
-  - projects
-image:
-  preview_only: true
-  caption: caption
-  alt_text: description
-  focal_point: smart
-  filename: icons8-web-accessibility-48.png
 ---
-body
