@@ -14,8 +14,6 @@ interests:
   - Games
   - Security
   - Research
-  - Computational Linguistics
-  - GGames
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,7 +26,7 @@ social:
     link: https://scholar.google.com.au/citations?hl=en&user=itCS1r0AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: #
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
